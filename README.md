@@ -11,7 +11,7 @@ Magento 2
   -  log into the Magento 2 server and cd into the root directory of the Magento app:
     -  Execute the following commands:
       - composer require tiktok/shopping
-      - php bin/magento module:enable AfterShip_TikTokShopping --clear-static-content
+      - php bin/magento module:enable TikTok_Shopping --clear-static-content
       - php bin/magento setup:upgrade
       - php bin/magento setup:static-content:deploy -f
 

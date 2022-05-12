@@ -1,7 +1,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
     <router id="admin">
-        <route id="aftership_tiktok_shopping" frontName="aftership_tiktok_shopping">
-            <module name="AfterShip_TikTokShopping" />
+        <route id="tiktok_shopping" frontName="tiktok_shopping">
+            <module name="TikTok_Shopping" />
         </route>
     </router>
 </config>
