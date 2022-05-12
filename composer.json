@@ -1,5 +1,5 @@
 {
-    "name": "aftership/tiktok-shopping",
+    "name": "tiktok/shopping",
     "description": "Aftership TikTok Shopping extension for Magento 2. Allows connect with TikTok Shopping Feed and more.",
     "type": "magento2-module",
     "version": "1.0.0",
