@@ -17,7 +17,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "AfterShip\\Feed\\": ""
+            "AfterShip\\TikTokShopping\\": ""
         }
     },
     "config": {
