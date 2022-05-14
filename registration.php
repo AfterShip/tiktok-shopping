@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'TikTok_Shopping',
+    'AfterShip_TikTokShopping',
     __DIR__
 );

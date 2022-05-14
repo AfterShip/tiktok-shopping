@@ -1,8 +1,8 @@
 {
-    "name": "tiktok/shopping",
+    "name": "aftership/tiktok-shopping",
     "description": "Aftership TikTok Shopping extension for Magento 2. Allows connect with TikTok Shopping Feed and more.",
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "minimum-stability": "stable",
     "license": "MIT",
     "keywords": ["aftership", "magento", "magento2", "magento-2", "tiktok", "shopping", "feed"],
@@ -17,7 +17,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "TikTok\\Shopping\\": ""
+            "AfterShip\\TikTokShopping\\": ""
         }
     },
     "config": {
